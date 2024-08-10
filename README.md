@@ -1,4 +1,4 @@
-# Mask Detection and Recording Application
+# Face obstruction detection for banks
 
 This project provides a real-time mask detection application using OpenCV and TensorFlow. The application detects faces in a video feed, predicts whether the faces are wearing masks, and records video when no mask is detected.
 
